@@ -1,0 +1,10 @@
+.DS_Store
+.bundle
+config/database.yml
+db/*.db
+db/*.sqlite3
+log/*.log
+tmp/**/*
+rerun.txt
+.idea
+*.iml
